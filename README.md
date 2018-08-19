@@ -1,2 +1,2 @@
 # git-github2
-For Edureka tutorals with Reyshmaa
+For Edureka tutorals with Reyshmaa.
